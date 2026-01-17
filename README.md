@@ -75,7 +75,7 @@
                 <option value="c13">১৩শ: বিবিধ বিমা</option>
                 <option value="c14">১৪শ: বিমা আইন ও নিয়ন্ত্রণ</option>
             </select>
-            <button class="pdf-btn" onclick="downloadPDF()">📄 ডাউনলোড PDF (সুন্দর লেআউট)</button>
+            <button class="pdf-btn" onclick="downloadPDF()">📄 ডাউনলোড PDF</button>
         </div>
 
         <div class="card-container" id="swipeArea">
